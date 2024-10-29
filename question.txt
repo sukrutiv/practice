@@ -21,4 +21,4 @@ List getAllClosing(String log);
 // use stack and part-2 function to get all closing time
 
 
-They will possibly report this question like other, so stay vigilent. And post it to somewhere else if necessary.
+They will possibly report this question like other, so stay vigilent.
